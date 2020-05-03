@@ -24,9 +24,24 @@ tip intreg pana la finalul procesului de parsare(sfarsitul fisierului).
 Procesul de generare a Modelului se constituie de fapt intr-o mapare
 intuitiva(Schema XML -- un fisier descriptiv cu extensia .DTD nu mi-a
 parvenit) a structurii arborescente intr-o structura relationala.
-
-![](media/image1.png){width="6.104166666666667in"
-height="2.3854166666666665in"}
+...------...               ```` ..........-             `   `.-..........-                         
+ .--::/:::---               `... ---:::/:--/`           `---.`-:://::://:::                         
+ ...........-````````````````````..........:`````````````````.............:                         
+ .-----------.              .  . ----------/ .           .  ``------------:                         
+ ...........-                    ..........:                 `............:                         
+ ````````````                    ``````````.                  `````--``````                         
+                                                                   --                               
+                                                                   ``                               
+                                                                   ``                               
+                                           ````````````````````````..````````````````````````       
+                                           .                       ``                       .       
+                                           .                       ``                       .       
+                                      ....--.....`            `...........            `.....-.....- 
+                                      ----:::----.            `-:::::::::-            `::::::::-::: 
+                                      ..........-.            `..........-            `...........: 
+                                      -----------.            .----------:            `-----------: 
+                                      ............            `..........-            `...........- 
+                                      `..........             `..........`            `...........` 
 
 Figura 1. Diagrama claselor reflecta Modelul obiectual intern
 

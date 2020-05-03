@@ -35,8 +35,7 @@ to extract information from the attributes of the XML structure. This
 model is validated referentially by manipulating class and instant
 attributes of the whole type until the end of the parsing process (end
 of file). The process of generating the Model is actually an intuitive
-mapping (XML Schema -- a descriptive file with extension . DTD did not
-come to me) of the tree structure in a relational structure.
+mapping of the tree structure in a relational structure.
 
 The Controller component is an over-imposition of three levels, one
 responsible for the actual extraction of data using SAXParser, the
